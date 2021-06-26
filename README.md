@@ -1,4 +1,12 @@
-### Hi there 👋
+👋 Hi there! I'm front-end developer studying back-end as well! ✨
+<br>Sometimes I develop mobile app using Android, but I prefer web 💻
+
+  
+
+
+### 📫 Contact me!
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/Study-72622de2552e4dd6b39e7d5601fa0792) [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](mailto:yuriuniv@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/%EC%9C%A0%EB%A6%AC-%EC%9D%B4-515204216/)
+
 
 <!--
 **yurileeeee/yurileeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
