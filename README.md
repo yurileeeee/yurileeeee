@@ -1,5 +1,5 @@
   [![Yuri's github stats](https://github-readme-stats.vercel.app/api?username=yurileeeee)](https://github.com/yurileeeee/github-readme-stats)
-
+# Welcome to LEE YURI's git 💕
 👋 Hi there! I'm front-end developer who dreams of becoming a full-stack developer! ✨
 <br>Sometimes I develop mobile app using Android, but I prefer web 💻
 
